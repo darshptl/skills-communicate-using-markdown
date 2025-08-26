@@ -31,5 +31,6 @@ var myVar = "Whatsup DQuad!!!";
 - [x] Insert an image
 - [x] Add a code example
 - [x] Complete the Markdown course
+- [ ] Merge your pull request
 
 
