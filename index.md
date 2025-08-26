@@ -25,5 +25,11 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 var myVar = "Whatsup DQuad!!!";
 
 
+## My Task List
+
+- [x] Add headers to index.md
+- [x] Insert an image
+- [x] Add a code example
+- [x] Complete the Markdown course
 
 
